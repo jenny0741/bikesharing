@@ -9,3 +9,4 @@ Utilizing Tableau and CSV data files, analysis was conducted to understand how t
 Below are the visualizations of the results from the analysis along with descriptions.
 
 ![Resources/Top_Start_Locations](Resources/Top_Start_Locations.png)
+![Resources/Peak_Hours](Resources/Peak_Hours.png)
