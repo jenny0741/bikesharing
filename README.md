@@ -11,7 +11,7 @@ Below are the visualizations of the results from the analysis along with descrip
 ![Resources/Top_Start_Locations](Resources/Top_Start_Locations.png)
 ![Resources/Peak_Hours](Resources/Peak_Hours.png)
 ![Resources/Trip_Per_Weekday](Resources/Trip_Per_Weekday.png)
-![]()
+![Resources/Trip_by_Gender](Resources/Trip_by_Gender.png)
 ![]()
 ![]()
 ![]()
