@@ -17,3 +17,4 @@ Below are the visualizations of the results from the analysis along with descrip
 ![Resources/Duration_by_Gender](Resources/Duration_by_Gender.png)
 
 ## Summary
+Based on the results from the analysis, it can be seen that the main clientele for the bike-sharing business in New York City comes from local residents in the area. 
