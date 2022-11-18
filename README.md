@@ -15,3 +15,5 @@ Below are the visualizations of the results from the analysis along with descrip
 ![Resources/Customers](Resources/Customers.png)
 ![Resources/Trip_Duration](Resources/Trip_Duration.png)
 ![Resources/Duration_by_Gender](Resources/Duration_by_Gender.png)
+
+## Summary
